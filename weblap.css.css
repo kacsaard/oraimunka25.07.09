@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff5ee;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: #8b0000;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fffaf0;
+}
+
+th, td {
+    border: 2px solid burlywood;
+    padding: 10px;
+    text-align: center;
+}
+
+.malacfajta {
+    border: 5px solid burlywood;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px;
+    max-width: 80%;
+}
+
+video, img {
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+a {
+    color: #8b0000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    max-width: 80%;
+    margin: 0 auto 20px auto;
+    line-height: 1.6;
+}
+
+nav {
+    margin-top: 30px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+p {
+    max-width: 80%;
+    margin: 20px auto;
+    line-height: 1.7;
+    font-size: 1.1em;
+}
